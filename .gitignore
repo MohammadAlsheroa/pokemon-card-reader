@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Local data and caches, rebuilt at runtime
+cards.db
+web_cache.json
+set_codes.json
+card_border_out.jpg
